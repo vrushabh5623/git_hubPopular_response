@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  /* height: 100vh; */
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.popular-head {
+  font-family: Lobster;
+  font-size: 40px;
+  color: #0f172a;
+  text-align: center;
+}
+.un-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+.item-container {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}

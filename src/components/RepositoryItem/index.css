@@ -1,0 +1,37 @@
+/* Write your CSS here */
+
+.repository-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 30vh;
+  background-color: #f8f8ff;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.avatar-image {
+  height: 15vh;
+}
+.name {
+  color: #e73959;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: roboto;
+  padding: 10px 0px 10px 0px;
+}
+.star-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 6px 0px 6px 0px;
+}
+.star-img {
+  height: 3vh;
+  padding-right: 10px;
+}
+.star-para {
+  font-size: 20px;
+  color: #1e293b;
+  font-family: roboto;
+}
