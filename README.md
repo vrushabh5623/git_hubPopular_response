@@ -32,7 +32,7 @@ In this project, let's build a **Github Popular Repos** by applying the concepts
 <details>
 <summary>Click to view</summary>
 
-- Download dependencies by running `npm install`
+-- Download dependencies by running `npm install`
 - Start up the app using `npm start`
 </details>
 
